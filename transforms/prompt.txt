@@ -1,0 +1,128 @@
+A csv table contains a dataset described below. Follow the instructions: 1. Create a python script that generates for each entry in the table one or more instruction-response pair for use to fine tune a LLM. 2. Store the pairs in a csv table. 3. Name the columns "prompt" and "completion".  Format the prompt in the following way:  <s>[INST] {prompt} [/INST]. 4. Add a third column "train" and assign the value "train" to all entries.  ### Dataset description:
+
+
+A csv table contains a world cup goals dataset described below. 
+Follow the instructions: 
+1. Create a python script that generates for each entry in the table one or more instruction-response pair for use to fine tune a LLM.
+2. Store the pairs in a csv table. 
+3. For the  Name the columns "prompt" and "completion".  Format the prompt in the following way:  <s>[INST] {prompt} [/INST]. 
+4. Add a third column "train" and assign the value "train" to 80% of the entries and the value "evaluation" to the remaining 20%.
+5. Make a replica for the entries labeled "evaluation" with the valure "train" for the "train" column.
+Description:
+This dataset records all goals. There is one observation per goal. It indicates the team that scored the goal, player who scored the goal, the team of the player who scored the goal (to account for own goals), minute of the goal, and whether the goal was scored in the run of play by the opposition, was an own goal, or was a penalty. This dataset does not include converted penalties in a penalty shootout. There are 26 variables and 3637 observations.
+Variables:
+ key_id integer The unique ID number for the observation.
+ goal_id text The unique ID number for the goal. Has the format G-#### , where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the goal.
+ tournament_id text The unique ID number for the tournament. References tournament_id in the tournaments dataset.
+ tournament_name text The name of the tournament.
+ match_id text The unique ID number for the match in which the goal occurred. References match_id in the matches dataset. 
+ match_name text The name of the match in which the goal occurred.
+ match_date date The date of the match in the format YYYY-MM-DD .
+stage_name enum The stage of the tournament in which the match occurred. The possible values are: first round , second round , group stage , round of sixteen , quarter-finals ,
+semi-finals , third place match , final . Note that not all values are applicable to all tournaments.
+group_name text The name of the group.
+team_id text The unique ID number for the team that scored the goal. References team_id in the teams dataset. For own goals, this is the team that is awarded the goal, not the team of the player who scored the own goal.
+team_name text The name of the team of the player who scored the goal. 
+team_code text The 3-letter code for the team of the player who scored the goal.
+home_team boolean Whether the team was the home team. Coded 1 if the team was the home team and 0 otherwise.
+away_team boolean Whether the team was the away team. Coded 1 if the team was the away team and 0 otherwise.
+player_id text The unique ID number for the player who scored the goal. References player_id in the players dataset.
+family_name text The family name of the player who scored the goal. 
+given_name text The given name of the player who scored the goal. 
+shirt_number integer The shirt number of the player who scored the goal.
+player_team_id text The unique ID number for the team of the player who scored the goal. References team_id in the teams dataset. For own goals, this is the team of the player who scored the own goal, not the team that is awarded the goal.
+player_team_name text The name of the team of the player who scored the goal.
+player_team_code text The 3-letter code for the team of the player who scored the goal.
+minute_label text The minute of the match in which the goal occurred in the format #’ or #’+#’ .
+minute_regulation integer The minute of regulation time in which the substitution occurred.
+minute_stoppage integer The minute of stoppage time in which the goal occurred. Coded 0 if the substitution did not occur during stoppage time.
+match_period enum The period of the match in which the goal occurred. The possible values are: first half , first half, stoppage time , second half , second half, stoppage time , extra time, first half , extra time, first half, stoppage time ,extra time, second half , extra time, second half, stoppage time , after extra time 
+own_goal boolean Whether the goal was an own goal. Coded 1 if the goal was an own goal and 0 otherwise.
+penalty boolean Whether the goal was a penalty that occurred during the game, as opposed to during a penalty shootout. Coded 1 if the goal wasa penalty that occurred during the game and 0 otherwise.
+
+incorporate additional details for match_name,home_team,away_team,shirt_number,,minute_label,minute_regulation,minute_stoppage,match_period,own_goal,penalty
+
+A csv table in the file "../data-csv/penalty_kicks.csv" contains a world cup penalties dataset described below. 
+Follow the instructions: 
+1. Create a python script that generates for each entry in the table one or more instruction-response pair for use to fine tune a LLM.
+2. Store the pairs in a csv table. 
+3. For the  Name the columns "prompt" and "completion".  Format the prompt in the following way:  <s>[INST] {prompt} [/INST]. 
+4. Ensure that the tournament_name, match_name, match_date,  stage_name,  team_name,  given_name, family_name, shirt_number only if not 0, converted are included in the "completion". 
+5. Add a third column "train" and assign the value "train" to 80% of the entries and the value "evaluation" to the remaining 20%.
+6. Make a replica for the entries labeled "evaluation" with the valure "train" for the "train" column.
+Description:
+This dataset records all penalty kicks taken during penalty shootouts. There is one observation per penalty kick. This dataset does not include attempted penalty kicks during matches. It indicates minute of each kick, the player who took the kick, and whether the penalty was converted. There are 19 variables and 396 observations.
+ Variables 
+ key_id integer The unique ID number for the observation.
+ penalty_kick_id text The unique ID number for the penalty kick. Has the format PK-#### , where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the penalty kick.
+ tournament_id text The unique ID number for the tournament. References tournament_id in the tournaments dataset.
+ tournament_name text The name of the tournament.
+ match_id text The unique ID number for the match in which the penalty kick occurred. References match_id in the matches dataset.           
+ match_name text The name of match in which the penalty kick occurred.
+ match_date date The date of the match in the format YYYY-MM-DD .
+stage_name enum The stage of the tournament in which the match occurred. The possible values are: first round , second round , group stage , round of sixteen , quarter-finals , semi-finals , third place match , final . Note that not all values are applicable to all tournaments.
+group_name text The name of the group.
+team_id text The unique ID number for the team of the player who took the penalty kick. References team_id in the teams dataset. 
+team_name text The name of the team of the player who took the penalty kick.
+team_code text The 3-letter code for the team of the player who took the penalty kick.
+home_team boolean Whether the team was the home team. Coded 1 if the team was the home team and 0 otherwise.
+away_team boolean Whether the team was the away team. Coded 1 if the team was the away team and 0 otherwise.
+player_id text The unique ID number for the player who took the penalty kick. References player_id in the players dataset.
+family_name text The family name of the player who took the penalty kick.
+given_name text The given name of the player who took the penalty kick.
+shirt_number integer The shirt number of the player who took the penalty kick.
+converted boolean Whether the penalty kick was converted. Coded 1 if the penalty kick was converted and 0 otherwise.
+
+
+
+A csv table in the file "../data-csv/bookings.csv" contains a world cup penalties dataset described below. 
+Follow the instructions: 
+1. Create a python script that generates for each entry in the table one or more instruction-response pair for use to fine tune a LLM.
+2. Store the pairs in a csv table. 
+3. For the  Name the columns "prompt" and "completion".  Format the prompt in the following way:  <s>[INST] {prompt} [/INST]. 
+4. Ensure that the tournament_name, match_name, match_date,  stage_name,  team_name,  given_name, family_name, shirt_number only if not 0, match_period, minute_regulation or minute_stoppage as appropriate and depending on match_period,yellow_card,second_yellow_card if not 0, red_card  are included in the "completion". 
+5. Add a third column "train" and assign the value "train" to 80% of the entries and the value "evaluation" to the remaining 20%.
+6. Make a replica for the entries labeled "evaluation" with the valure "train" for the "train" column.
+Description:
+This dataset records all bookings, including yellow cards and red cards, since 1970. The modern system of yellow and red cards was introduced in 1970. There is one observation per booking. It indicates the minute of each booking, the player who was booked, whether the booking was a yellow card or a red card, whether the card was a second yellow card, and whether the player was sent off as a result of the booking. There are 26 variables and 3178 observations.
+ Variables
+ key_id integer The unique ID number for the observation.
+ booking_id text The unique ID number for the booking. Has the format B-#### , where the number is a counter that is assigned with the data sorted by the match ID, then the minute of the booking.
+ tournament_id text The unique ID number for the tournament. References tournament_id in the tournaments dataset.
+ tournament_name text The name of the tournament.
+ match_id text The unique ID number for the match in which the booking occurred. References match_id in the matches dataset. 
+ match_name text The name of the match in which the booking occurred.
+ match_date date The date of the match in the format YYYY-MM-DD 
+stage_name enum The stage of the tournament in which the match occurred. The possible values are: first round , second round , group stage , round of sixteen , quarter-finals , semi-finals , third place match , final . Note that not all values are applicable to all tournaments.
+group_name text The name of the group.
+team_id text The unique ID number for the team of the player who was booked. References team_id in the teams dataset.
+team_name text The name of the team of the player who was booked.
+team_code text The 3-letter code for the team of the player who was booked.
+home_team boolean Whether the team was the home team. Coded 1 if the team was the home team and 0 otherwise.
+away_team boolean Whether the team was the away team. Coded 1 if the team was the away team and 0 otherwise.
+player_id text The unique ID number for the player who was booked. References player_id in the players dataset.
+family_name text The family name of the player who was booked.
+given_name text The given name of the player who was booked.
+shirt_number integer The shirt number of the player who was booked.
+minute_label text The minute of the match in which the booking occurred in the format #’ or #’+#’ .
+minute_regulation integer The minute of regulation time in which the booking occurred.
+minute_stoppage integer The minute of stoppage time in which the booking occurred. Coded 0 if the substitution did not occur during stoppage time.
+match_period enum The period of the match in which the booking occurred. The possible values are: first half , first half, stoppage time , second half , second half, stoppage time , extra time, first half , extra time, first half, stoppage time , extra time, second half , extra time, second half, stoppage time , after extra time .
+yellow_card boolean Whether the booking was a yellow card. Coded the card is a yellow card and 0 otherwise.
+red_card boolean Whether the booking was a red card. Coded 1 card is a red card and 0 otherwise.
+second_yellow_card  boolean Whether the booking was a second yellow card. Coded 1 if the booking is a second yellow and 0 otherwise.
+sending_off boolean Whether the booking resulted in the player being sent off. Coded 1 if the player was sent off and 0 otherwise.
+
+   
+
+
+
+
+
+
+
+
+
+
+
+

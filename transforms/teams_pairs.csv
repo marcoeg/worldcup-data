@@ -1,0 +1,602 @@
+prompt,completion,train
+<s>[INST] What is the name of the team with the code DZA? [/INST],The name of the team with the code DZA is Algeria.,train
+<s>[INST] Which federation does the team Algeria belong to? [/INST],The team Algeria belongs to the federation Algerian Football Federation.,train
+<s>[INST] In which region is the team Algeria located? [/INST],The team Algeria is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Algeria? [/INST],The confederation of the team Algeria is Confederation of African Football abbreviated in CAF.,evaluation
+<s>[INST] Has the men's team of Algeria qualified for a World Cup tournament? [/INST],"Yes, the men's team of Algeria has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Algeria qualified for a World Cup tournament? [/INST],"No, the women's team of Algeria has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code AGO? [/INST],The name of the team with the code AGO is Angola.,train
+<s>[INST] Which federation does the team Angola belong to? [/INST],The team Angola belongs to the federation Angolan Football Federation.,train
+<s>[INST] In which region is the team Angola located? [/INST],The team Angola is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Angola? [/INST],The confederation of the team Angola is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Angola qualified for a World Cup tournament? [/INST],"Yes, the men's team of Angola has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Angola qualified for a World Cup tournament? [/INST],"No, the women's team of Angola has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ARG? [/INST],The name of the team with the code ARG is Argentina.,evaluation
+<s>[INST] Which federation does the team Argentina belong to? [/INST],The team Argentina belongs to the federation Argentine Football Association.,evaluation
+<s>[INST] In which region is the team Argentina located? [/INST],The team Argentina is located in the region South America.,train
+<s>[INST] What is the confederation of the team Argentina? [/INST],The confederation of the team Argentina is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Argentina qualified for a World Cup tournament? [/INST],"Yes, the men's team of Argentina has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Argentina qualified for a World Cup tournament? [/INST],"Yes, the women's team of Argentina has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code AUS? [/INST],The name of the team with the code AUS is Australia.,evaluation
+<s>[INST] Which federation does the team Australia belong to? [/INST],The team Australia belongs to the federation Football Australia.,train
+<s>[INST] In which region is the team Australia located? [/INST],The team Australia is located in the region Oceania.,train
+<s>[INST] What is the confederation of the team Australia? [/INST],The confederation of the team Australia is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Australia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Australia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Australia qualified for a World Cup tournament? [/INST],"Yes, the women's team of Australia has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code AUT? [/INST],The name of the team with the code AUT is Austria.,train
+<s>[INST] Which federation does the team Austria belong to? [/INST],The team Austria belongs to the federation Austrian Football Association.,evaluation
+<s>[INST] In which region is the team Austria located? [/INST],The team Austria is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Austria? [/INST],The confederation of the team Austria is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Austria qualified for a World Cup tournament? [/INST],"Yes, the men's team of Austria has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Austria qualified for a World Cup tournament? [/INST],"No, the women's team of Austria has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code BEL? [/INST],The name of the team with the code BEL is Belgium.,train
+<s>[INST] Which federation does the team Belgium belong to? [/INST],The team Belgium belongs to the federation Royal Belgian Football Association.,train
+<s>[INST] In which region is the team Belgium located? [/INST],The team Belgium is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Belgium? [/INST],The confederation of the team Belgium is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of Belgium qualified for a World Cup tournament? [/INST],"Yes, the men's team of Belgium has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Belgium qualified for a World Cup tournament? [/INST],"No, the women's team of Belgium has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code BOL? [/INST],The name of the team with the code BOL is Bolivia.,train
+<s>[INST] Which federation does the team Bolivia belong to? [/INST],The team Bolivia belongs to the federation Bolivian Football Federation.,train
+<s>[INST] In which region is the team Bolivia located? [/INST],The team Bolivia is located in the region South America.,train
+<s>[INST] What is the confederation of the team Bolivia? [/INST],The confederation of the team Bolivia is South American Football Confederation abbreviated in CONMEBOL.,evaluation
+<s>[INST] Has the men's team of Bolivia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Bolivia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Bolivia qualified for a World Cup tournament? [/INST],"No, the women's team of Bolivia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code BIH? [/INST],The name of the team with the code BIH is Bosnia and Herzegovina.,train
+<s>[INST] Which federation does the team Bosnia and Herzegovina belong to? [/INST],The team Bosnia and Herzegovina belongs to the federation Football Association of Bosnia and Herzegovina.,train
+<s>[INST] In which region is the team Bosnia and Herzegovina located? [/INST],The team Bosnia and Herzegovina is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Bosnia and Herzegovina? [/INST],The confederation of the team Bosnia and Herzegovina is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Bosnia and Herzegovina qualified for a World Cup tournament? [/INST],"Yes, the men's team of Bosnia and Herzegovina has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Bosnia and Herzegovina qualified for a World Cup tournament? [/INST],"No, the women's team of Bosnia and Herzegovina has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code BRA? [/INST],The name of the team with the code BRA is Brazil.,train
+<s>[INST] Which federation does the team Brazil belong to? [/INST],The team Brazil belongs to the federation Brazilian Football Confederation.,evaluation
+<s>[INST] In which region is the team Brazil located? [/INST],The team Brazil is located in the region South America.,train
+<s>[INST] What is the confederation of the team Brazil? [/INST],The confederation of the team Brazil is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Brazil qualified for a World Cup tournament? [/INST],"Yes, the men's team of Brazil has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Brazil qualified for a World Cup tournament? [/INST],"Yes, the women's team of Brazil has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code BGR? [/INST],The name of the team with the code BGR is Bulgaria.,train
+<s>[INST] Which federation does the team Bulgaria belong to? [/INST],The team Bulgaria belongs to the federation Bulgarian Football Union.,evaluation
+<s>[INST] In which region is the team Bulgaria located? [/INST],The team Bulgaria is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Bulgaria? [/INST],The confederation of the team Bulgaria is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Bulgaria qualified for a World Cup tournament? [/INST],"Yes, the men's team of Bulgaria has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Bulgaria qualified for a World Cup tournament? [/INST],"No, the women's team of Bulgaria has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CMR? [/INST],The name of the team with the code CMR is Cameroon.,train
+<s>[INST] Which federation does the team Cameroon belong to? [/INST],The team Cameroon belongs to the federation Cameroonian Football Federation.,train
+<s>[INST] In which region is the team Cameroon located? [/INST],The team Cameroon is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Cameroon? [/INST],The confederation of the team Cameroon is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Cameroon qualified for a World Cup tournament? [/INST],"Yes, the men's team of Cameroon has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Cameroon qualified for a World Cup tournament? [/INST],"Yes, the women's team of Cameroon has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CAN? [/INST],The name of the team with the code CAN is Canada.,train
+<s>[INST] Which federation does the team Canada belong to? [/INST],The team Canada belongs to the federation Canadian Soccer Association.,train
+<s>[INST] In which region is the team Canada located? [/INST],The team Canada is located in the region North America.,train
+<s>[INST] What is the confederation of the team Canada? [/INST],"The confederation of the team Canada is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Canada qualified for a World Cup tournament? [/INST],"Yes, the men's team of Canada has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Canada qualified for a World Cup tournament? [/INST],"Yes, the women's team of Canada has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CHL? [/INST],The name of the team with the code CHL is Chile.,train
+<s>[INST] Which federation does the team Chile belong to? [/INST],The team Chile belongs to the federation Football Federation of Chile.,train
+<s>[INST] In which region is the team Chile located? [/INST],The team Chile is located in the region South America.,train
+<s>[INST] What is the confederation of the team Chile? [/INST],The confederation of the team Chile is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Chile qualified for a World Cup tournament? [/INST],"Yes, the men's team of Chile has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Chile qualified for a World Cup tournament? [/INST],"Yes, the women's team of Chile has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CHN? [/INST],The name of the team with the code CHN is China.,train
+<s>[INST] Which federation does the team China belong to? [/INST],The team China belongs to the federation Chinese Football Association.,train
+<s>[INST] In which region is the team China located? [/INST],The team China is located in the region East Asia.,train
+<s>[INST] What is the confederation of the team China? [/INST],The confederation of the team China is Asian Football Confederation abbreviated in AFC.,evaluation
+<s>[INST] Has the men's team of China qualified for a World Cup tournament? [/INST],"Yes, the men's team of China has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of China qualified for a World Cup tournament? [/INST],"Yes, the women's team of China has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code TWN? [/INST],The name of the team with the code TWN is Chinese Taipei.,train
+<s>[INST] Which federation does the team Chinese Taipei belong to? [/INST],The team Chinese Taipei belongs to the federation Chinese Taipei Football Association.,train
+<s>[INST] In which region is the team Chinese Taipei located? [/INST],The team Chinese Taipei is located in the region East Asia.,train
+<s>[INST] What is the confederation of the team Chinese Taipei? [/INST],The confederation of the team Chinese Taipei is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Chinese Taipei qualified for a World Cup tournament? [/INST],"No, the men's team of Chinese Taipei has not qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Chinese Taipei qualified for a World Cup tournament? [/INST],"Yes, the women's team of Chinese Taipei has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code COL? [/INST],The name of the team with the code COL is Colombia.,train
+<s>[INST] Which federation does the team Colombia belong to? [/INST],The team Colombia belongs to the federation Colombia Football Federation.,train
+<s>[INST] In which region is the team Colombia located? [/INST],The team Colombia is located in the region South America.,train
+<s>[INST] What is the confederation of the team Colombia? [/INST],The confederation of the team Colombia is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Colombia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Colombia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Colombia qualified for a World Cup tournament? [/INST],"Yes, the women's team of Colombia has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CRI? [/INST],The name of the team with the code CRI is Costa Rica.,train
+<s>[INST] Which federation does the team Costa Rica belong to? [/INST],The team Costa Rica belongs to the federation Costa Rican Football Federation.,train
+<s>[INST] In which region is the team Costa Rica located? [/INST],The team Costa Rica is located in the region Central America.,evaluation
+<s>[INST] What is the confederation of the team Costa Rica? [/INST],"The confederation of the team Costa Rica is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Costa Rica qualified for a World Cup tournament? [/INST],"Yes, the men's team of Costa Rica has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Costa Rica qualified for a World Cup tournament? [/INST],"Yes, the women's team of Costa Rica has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code HRV? [/INST],The name of the team with the code HRV is Croatia.,train
+<s>[INST] Which federation does the team Croatia belong to? [/INST],The team Croatia belongs to the federation Croatian Football Federation.,evaluation
+<s>[INST] In which region is the team Croatia located? [/INST],The team Croatia is located in the region Europe.,evaluation
+<s>[INST] What is the confederation of the team Croatia? [/INST],The confederation of the team Croatia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Croatia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Croatia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Croatia qualified for a World Cup tournament? [/INST],"No, the women's team of Croatia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CUB? [/INST],The name of the team with the code CUB is Cuba.,train
+<s>[INST] Which federation does the team Cuba belong to? [/INST],The team Cuba belongs to the federation Football Association of Cuba.,train
+<s>[INST] In which region is the team Cuba located? [/INST],The team Cuba is located in the region Caribbean.,train
+<s>[INST] What is the confederation of the team Cuba? [/INST],"The confederation of the team Cuba is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Cuba qualified for a World Cup tournament? [/INST],"Yes, the men's team of Cuba has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Cuba qualified for a World Cup tournament? [/INST],"No, the women's team of Cuba has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CZE? [/INST],The name of the team with the code CZE is Czech Republic.,train
+<s>[INST] Which federation does the team Czech Republic belong to? [/INST],The team Czech Republic belongs to the federation Football Association of the Czech Republic.,train
+<s>[INST] In which region is the team Czech Republic located? [/INST],The team Czech Republic is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Czech Republic? [/INST],The confederation of the team Czech Republic is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of Czech Republic qualified for a World Cup tournament? [/INST],"Yes, the men's team of Czech Republic has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Czech Republic qualified for a World Cup tournament? [/INST],"No, the women's team of Czech Republic has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CSK? [/INST],The name of the team with the code CSK is Czechoslovakia.,evaluation
+<s>[INST] Which federation does the team Czechoslovakia belong to? [/INST],The team Czechoslovakia belongs to the federation Football Association of the Czechoslovakia.,train
+<s>[INST] In which region is the team Czechoslovakia located? [/INST],The team Czechoslovakia is located in the region Europe.,evaluation
+<s>[INST] What is the confederation of the team Czechoslovakia? [/INST],The confederation of the team Czechoslovakia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Czechoslovakia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Czechoslovakia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Czechoslovakia qualified for a World Cup tournament? [/INST],"No, the women's team of Czechoslovakia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code DNK? [/INST],The name of the team with the code DNK is Denmark.,train
+<s>[INST] Which federation does the team Denmark belong to? [/INST],The team Denmark belongs to the federation Danish Football Association.,train
+<s>[INST] In which region is the team Denmark located? [/INST],The team Denmark is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Denmark? [/INST],The confederation of the team Denmark is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Denmark qualified for a World Cup tournament? [/INST],"Yes, the men's team of Denmark has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Denmark qualified for a World Cup tournament? [/INST],"Yes, the women's team of Denmark has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code IDN? [/INST],The name of the team with the code IDN is Dutch East Indies.,train
+<s>[INST] Which federation does the team Dutch East Indies belong to? [/INST],The team Dutch East Indies belongs to the federation Football Association of Indonesia.,train
+<s>[INST] In which region is the team Dutch East Indies located? [/INST],The team Dutch East Indies is located in the region South East Asia.,train
+<s>[INST] What is the confederation of the team Dutch East Indies? [/INST],The confederation of the team Dutch East Indies is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Dutch East Indies qualified for a World Cup tournament? [/INST],"Yes, the men's team of Dutch East Indies has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Dutch East Indies qualified for a World Cup tournament? [/INST],"No, the women's team of Dutch East Indies has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code DDR? [/INST],The name of the team with the code DDR is East Germany.,train
+<s>[INST] Which federation does the team East Germany belong to? [/INST],The team East Germany belongs to the federation Football Association of East Germany.,train
+<s>[INST] In which region is the team East Germany located? [/INST],The team East Germany is located in the region Europe.,train
+<s>[INST] What is the confederation of the team East Germany? [/INST],The confederation of the team East Germany is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of East Germany qualified for a World Cup tournament? [/INST],"Yes, the men's team of East Germany has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of East Germany qualified for a World Cup tournament? [/INST],"No, the women's team of East Germany has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ECU? [/INST],The name of the team with the code ECU is Ecuador.,train
+<s>[INST] Which federation does the team Ecuador belong to? [/INST],The team Ecuador belongs to the federation Ecuadorian Football Federation.,train
+<s>[INST] In which region is the team Ecuador located? [/INST],The team Ecuador is located in the region South America.,train
+<s>[INST] What is the confederation of the team Ecuador? [/INST],The confederation of the team Ecuador is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Ecuador qualified for a World Cup tournament? [/INST],"Yes, the men's team of Ecuador has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Ecuador qualified for a World Cup tournament? [/INST],"Yes, the women's team of Ecuador has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code EGY? [/INST],The name of the team with the code EGY is Egypt.,train
+<s>[INST] Which federation does the team Egypt belong to? [/INST],The team Egypt belongs to the federation Egyptian Football Association.,evaluation
+<s>[INST] In which region is the team Egypt located? [/INST],The team Egypt is located in the region Africa.,evaluation
+<s>[INST] What is the confederation of the team Egypt? [/INST],The confederation of the team Egypt is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Egypt qualified for a World Cup tournament? [/INST],"Yes, the men's team of Egypt has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Egypt qualified for a World Cup tournament? [/INST],"No, the women's team of Egypt has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SLV? [/INST],The name of the team with the code SLV is El Salvador.,train
+<s>[INST] Which federation does the team El Salvador belong to? [/INST],The team El Salvador belongs to the federation Salvadorian Football Federation.,train
+<s>[INST] In which region is the team El Salvador located? [/INST],The team El Salvador is located in the region Central America.,train
+<s>[INST] What is the confederation of the team El Salvador? [/INST],"The confederation of the team El Salvador is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of El Salvador qualified for a World Cup tournament? [/INST],"Yes, the men's team of El Salvador has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of El Salvador qualified for a World Cup tournament? [/INST],"No, the women's team of El Salvador has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ENG? [/INST],The name of the team with the code ENG is England.,train
+<s>[INST] Which federation does the team England belong to? [/INST],The team England belongs to the federation The Football Association.,train
+<s>[INST] In which region is the team England located? [/INST],The team England is located in the region Europe.,train
+<s>[INST] What is the confederation of the team England? [/INST],The confederation of the team England is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of England qualified for a World Cup tournament? [/INST],"Yes, the men's team of England has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of England qualified for a World Cup tournament? [/INST],"Yes, the women's team of England has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code GNQ? [/INST],The name of the team with the code GNQ is Equatorial Guinea.,train
+<s>[INST] Which federation does the team Equatorial Guinea belong to? [/INST],The team Equatorial Guinea belongs to the federation Equatoguinean Football Federation.,train
+<s>[INST] In which region is the team Equatorial Guinea located? [/INST],The team Equatorial Guinea is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Equatorial Guinea? [/INST],The confederation of the team Equatorial Guinea is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Equatorial Guinea qualified for a World Cup tournament? [/INST],"No, the men's team of Equatorial Guinea has not qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Equatorial Guinea qualified for a World Cup tournament? [/INST],"Yes, the women's team of Equatorial Guinea has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code FRA? [/INST],The name of the team with the code FRA is France.,train
+<s>[INST] Which federation does the team France belong to? [/INST],The team France belongs to the federation French Football Association.,train
+<s>[INST] In which region is the team France located? [/INST],The team France is located in the region Europe.,train
+<s>[INST] What is the confederation of the team France? [/INST],The confederation of the team France is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of France qualified for a World Cup tournament? [/INST],"Yes, the men's team of France has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of France qualified for a World Cup tournament? [/INST],"Yes, the women's team of France has qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code DEU? [/INST],The name of the team with the code DEU is Germany.,train
+<s>[INST] Which federation does the team Germany belong to? [/INST],The team Germany belongs to the federation Germany Football Association.,evaluation
+<s>[INST] In which region is the team Germany located? [/INST],The team Germany is located in the region Europe.,evaluation
+<s>[INST] What is the confederation of the team Germany? [/INST],The confederation of the team Germany is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Germany qualified for a World Cup tournament? [/INST],"Yes, the men's team of Germany has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Germany qualified for a World Cup tournament? [/INST],"Yes, the women's team of Germany has qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code GHA? [/INST],The name of the team with the code GHA is Ghana.,train
+<s>[INST] Which federation does the team Ghana belong to? [/INST],The team Ghana belongs to the federation Ghana Football Association.,train
+<s>[INST] In which region is the team Ghana located? [/INST],The team Ghana is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Ghana? [/INST],The confederation of the team Ghana is Confederation of African Football abbreviated in CAF.,evaluation
+<s>[INST] Has the men's team of Ghana qualified for a World Cup tournament? [/INST],"Yes, the men's team of Ghana has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Ghana qualified for a World Cup tournament? [/INST],"Yes, the women's team of Ghana has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code GRC? [/INST],The name of the team with the code GRC is Greece.,train
+<s>[INST] Which federation does the team Greece belong to? [/INST],The team Greece belongs to the federation Hellenic Football Associaiton.,train
+<s>[INST] In which region is the team Greece located? [/INST],The team Greece is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Greece? [/INST],The confederation of the team Greece is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Greece qualified for a World Cup tournament? [/INST],"Yes, the men's team of Greece has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Greece qualified for a World Cup tournament? [/INST],"No, the women's team of Greece has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code HTI? [/INST],The name of the team with the code HTI is Haiti.,train
+<s>[INST] Which federation does the team Haiti belong to? [/INST],The team Haiti belongs to the federation Haitian Football Federation.,train
+<s>[INST] In which region is the team Haiti located? [/INST],The team Haiti is located in the region Caribbean.,train
+<s>[INST] What is the confederation of the team Haiti? [/INST],"The confederation of the team Haiti is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",evaluation
+<s>[INST] Has the men's team of Haiti qualified for a World Cup tournament? [/INST],"Yes, the men's team of Haiti has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Haiti qualified for a World Cup tournament? [/INST],"No, the women's team of Haiti has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code HND? [/INST],The name of the team with the code HND is Honduras.,train
+<s>[INST] Which federation does the team Honduras belong to? [/INST],The team Honduras belongs to the federation National Autonomous Federation of Football of Honduras.,train
+<s>[INST] In which region is the team Honduras located? [/INST],The team Honduras is located in the region Central America.,train
+<s>[INST] What is the confederation of the team Honduras? [/INST],"The confederation of the team Honduras is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Honduras qualified for a World Cup tournament? [/INST],"Yes, the men's team of Honduras has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Honduras qualified for a World Cup tournament? [/INST],"No, the women's team of Honduras has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code HUN? [/INST],The name of the team with the code HUN is Hungary.,train
+<s>[INST] Which federation does the team Hungary belong to? [/INST],The team Hungary belongs to the federation Hungary Football Association.,train
+<s>[INST] In which region is the team Hungary located? [/INST],The team Hungary is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Hungary? [/INST],The confederation of the team Hungary is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Hungary qualified for a World Cup tournament? [/INST],"Yes, the men's team of Hungary has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Hungary qualified for a World Cup tournament? [/INST],"No, the women's team of Hungary has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code ISL? [/INST],The name of the team with the code ISL is Iceland.,train
+<s>[INST] Which federation does the team Iceland belong to? [/INST],The team Iceland belongs to the federation Football Association of Iceland.,train
+<s>[INST] In which region is the team Iceland located? [/INST],The team Iceland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Iceland? [/INST],The confederation of the team Iceland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Iceland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Iceland has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Iceland qualified for a World Cup tournament? [/INST],"No, the women's team of Iceland has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code IRN? [/INST],The name of the team with the code IRN is Iran.,train
+<s>[INST] Which federation does the team Iran belong to? [/INST],The team Iran belongs to the federation Football Federation Islamic Republic of Iran.,train
+<s>[INST] In which region is the team Iran located? [/INST],The team Iran is located in the region Middle East.,evaluation
+<s>[INST] What is the confederation of the team Iran? [/INST],The confederation of the team Iran is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Iran qualified for a World Cup tournament? [/INST],"Yes, the men's team of Iran has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Iran qualified for a World Cup tournament? [/INST],"No, the women's team of Iran has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code IRQ? [/INST],The name of the team with the code IRQ is Iraq.,train
+<s>[INST] Which federation does the team Iraq belong to? [/INST],The team Iraq belongs to the federation Iraq Football Association.,train
+<s>[INST] In which region is the team Iraq located? [/INST],The team Iraq is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team Iraq? [/INST],The confederation of the team Iraq is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Iraq qualified for a World Cup tournament? [/INST],"Yes, the men's team of Iraq has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Iraq qualified for a World Cup tournament? [/INST],"No, the women's team of Iraq has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code ISR? [/INST],The name of the team with the code ISR is Israel.,evaluation
+<s>[INST] Which federation does the team Israel belong to? [/INST],The team Israel belongs to the federation Israel Football Association.,evaluation
+<s>[INST] In which region is the team Israel located? [/INST],The team Israel is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team Israel? [/INST],The confederation of the team Israel is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of Israel qualified for a World Cup tournament? [/INST],"Yes, the men's team of Israel has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Israel qualified for a World Cup tournament? [/INST],"No, the women's team of Israel has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ITA? [/INST],The name of the team with the code ITA is Italy.,train
+<s>[INST] Which federation does the team Italy belong to? [/INST],The team Italy belongs to the federation Italian Football Association.,train
+<s>[INST] In which region is the team Italy located? [/INST],The team Italy is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Italy? [/INST],The confederation of the team Italy is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Italy qualified for a World Cup tournament? [/INST],"Yes, the men's team of Italy has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Italy qualified for a World Cup tournament? [/INST],"Yes, the women's team of Italy has qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code CIV? [/INST],The name of the team with the code CIV is Ivory Coast.,evaluation
+<s>[INST] Which federation does the team Ivory Coast belong to? [/INST],The team Ivory Coast belongs to the federation Ivorian Football Federation.,train
+<s>[INST] In which region is the team Ivory Coast located? [/INST],The team Ivory Coast is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Ivory Coast? [/INST],The confederation of the team Ivory Coast is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Ivory Coast qualified for a World Cup tournament? [/INST],"Yes, the men's team of Ivory Coast has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Ivory Coast qualified for a World Cup tournament? [/INST],"Yes, the women's team of Ivory Coast has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code JAM? [/INST],The name of the team with the code JAM is Jamaica.,train
+<s>[INST] Which federation does the team Jamaica belong to? [/INST],The team Jamaica belongs to the federation Jamaica Football Federation.,train
+<s>[INST] In which region is the team Jamaica located? [/INST],The team Jamaica is located in the region Caribbean.,train
+<s>[INST] What is the confederation of the team Jamaica? [/INST],"The confederation of the team Jamaica is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Jamaica qualified for a World Cup tournament? [/INST],"Yes, the men's team of Jamaica has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Jamaica qualified for a World Cup tournament? [/INST],"Yes, the women's team of Jamaica has qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code JPN? [/INST],The name of the team with the code JPN is Japan.,train
+<s>[INST] Which federation does the team Japan belong to? [/INST],The team Japan belongs to the federation Japan Football Association.,train
+<s>[INST] In which region is the team Japan located? [/INST],The team Japan is located in the region East Asia.,evaluation
+<s>[INST] What is the confederation of the team Japan? [/INST],The confederation of the team Japan is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Japan qualified for a World Cup tournament? [/INST],"Yes, the men's team of Japan has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Japan qualified for a World Cup tournament? [/INST],"Yes, the women's team of Japan has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code KWT? [/INST],The name of the team with the code KWT is Kuwait.,train
+<s>[INST] Which federation does the team Kuwait belong to? [/INST],The team Kuwait belongs to the federation Kuwait Football Association.,train
+<s>[INST] In which region is the team Kuwait located? [/INST],The team Kuwait is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team Kuwait? [/INST],The confederation of the team Kuwait is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Kuwait qualified for a World Cup tournament? [/INST],"Yes, the men's team of Kuwait has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Kuwait qualified for a World Cup tournament? [/INST],"No, the women's team of Kuwait has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code MEX? [/INST],The name of the team with the code MEX is Mexico.,train
+<s>[INST] Which federation does the team Mexico belong to? [/INST],The team Mexico belongs to the federation Mexican Football Federation.,train
+<s>[INST] In which region is the team Mexico located? [/INST],The team Mexico is located in the region North America.,train
+<s>[INST] What is the confederation of the team Mexico? [/INST],"The confederation of the team Mexico is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",evaluation
+<s>[INST] Has the men's team of Mexico qualified for a World Cup tournament? [/INST],"Yes, the men's team of Mexico has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Mexico qualified for a World Cup tournament? [/INST],"Yes, the women's team of Mexico has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code MAR? [/INST],The name of the team with the code MAR is Morocco.,train
+<s>[INST] Which federation does the team Morocco belong to? [/INST],The team Morocco belongs to the federation Royal Moroccan Football Federation.,evaluation
+<s>[INST] In which region is the team Morocco located? [/INST],The team Morocco is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Morocco? [/INST],The confederation of the team Morocco is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Morocco qualified for a World Cup tournament? [/INST],"Yes, the men's team of Morocco has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Morocco qualified for a World Cup tournament? [/INST],"No, the women's team of Morocco has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code NLD? [/INST],The name of the team with the code NLD is Netherlands.,train
+<s>[INST] Which federation does the team Netherlands belong to? [/INST],The team Netherlands belongs to the federation Royal Dutch Football Association.,train
+<s>[INST] In which region is the team Netherlands located? [/INST],The team Netherlands is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Netherlands? [/INST],The confederation of the team Netherlands is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Netherlands qualified for a World Cup tournament? [/INST],"Yes, the men's team of Netherlands has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Netherlands qualified for a World Cup tournament? [/INST],"Yes, the women's team of Netherlands has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code NZL? [/INST],The name of the team with the code NZL is New Zealand.,train
+<s>[INST] Which federation does the team New Zealand belong to? [/INST],The team New Zealand belongs to the federation New Zealand Football.,train
+<s>[INST] In which region is the team New Zealand located? [/INST],The team New Zealand is located in the region Oceania.,train
+<s>[INST] What is the confederation of the team New Zealand? [/INST],The confederation of the team New Zealand is Oceania Football Confederation abbreviated in OFC.,train
+<s>[INST] Has the men's team of New Zealand qualified for a World Cup tournament? [/INST],"Yes, the men's team of New Zealand has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of New Zealand qualified for a World Cup tournament? [/INST],"Yes, the women's team of New Zealand has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code NGA? [/INST],The name of the team with the code NGA is Nigeria.,train
+<s>[INST] Which federation does the team Nigeria belong to? [/INST],The team Nigeria belongs to the federation Nigeria Football Federation.,train
+<s>[INST] In which region is the team Nigeria located? [/INST],The team Nigeria is located in the region Africa.,evaluation
+<s>[INST] What is the confederation of the team Nigeria? [/INST],The confederation of the team Nigeria is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Nigeria qualified for a World Cup tournament? [/INST],"Yes, the men's team of Nigeria has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Nigeria qualified for a World Cup tournament? [/INST],"Yes, the women's team of Nigeria has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code PRK? [/INST],The name of the team with the code PRK is North Korea.,train
+<s>[INST] Which federation does the team North Korea belong to? [/INST],The team North Korea belongs to the federation Democratic People's Republic of Korea Football Association.,train
+<s>[INST] In which region is the team North Korea located? [/INST],The team North Korea is located in the region East Asia.,train
+<s>[INST] What is the confederation of the team North Korea? [/INST],The confederation of the team North Korea is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of North Korea qualified for a World Cup tournament? [/INST],"Yes, the men's team of North Korea has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of North Korea qualified for a World Cup tournament? [/INST],"Yes, the women's team of North Korea has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code NIR? [/INST],The name of the team with the code NIR is Northern Ireland.,train
+<s>[INST] Which federation does the team Northern Ireland belong to? [/INST],The team Northern Ireland belongs to the federation Irish Football Association.,train
+<s>[INST] In which region is the team Northern Ireland located? [/INST],The team Northern Ireland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Northern Ireland? [/INST],The confederation of the team Northern Ireland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Northern Ireland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Northern Ireland has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Northern Ireland qualified for a World Cup tournament? [/INST],"No, the women's team of Northern Ireland has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code NOR? [/INST],The name of the team with the code NOR is Norway.,train
+<s>[INST] Which federation does the team Norway belong to? [/INST],The team Norway belongs to the federation Norwegian Football Federation.,train
+<s>[INST] In which region is the team Norway located? [/INST],The team Norway is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Norway? [/INST],The confederation of the team Norway is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Norway qualified for a World Cup tournament? [/INST],"Yes, the men's team of Norway has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Norway qualified for a World Cup tournament? [/INST],"Yes, the women's team of Norway has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code PAN? [/INST],The name of the team with the code PAN is Panama.,train
+<s>[INST] Which federation does the team Panama belong to? [/INST],The team Panama belongs to the federation Panamanian Football Federation.,train
+<s>[INST] In which region is the team Panama located? [/INST],The team Panama is located in the region Central America.,train
+<s>[INST] What is the confederation of the team Panama? [/INST],"The confederation of the team Panama is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Panama qualified for a World Cup tournament? [/INST],"Yes, the men's team of Panama has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Panama qualified for a World Cup tournament? [/INST],"No, the women's team of Panama has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code PRY? [/INST],The name of the team with the code PRY is Paraguay.,train
+<s>[INST] Which federation does the team Paraguay belong to? [/INST],The team Paraguay belongs to the federation Paraguayan Football Association.,train
+<s>[INST] In which region is the team Paraguay located? [/INST],The team Paraguay is located in the region South America.,train
+<s>[INST] What is the confederation of the team Paraguay? [/INST],The confederation of the team Paraguay is South American Football Confederation abbreviated in CONMEBOL.,evaluation
+<s>[INST] Has the men's team of Paraguay qualified for a World Cup tournament? [/INST],"Yes, the men's team of Paraguay has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Paraguay qualified for a World Cup tournament? [/INST],"No, the women's team of Paraguay has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code PER? [/INST],The name of the team with the code PER is Peru.,train
+<s>[INST] Which federation does the team Peru belong to? [/INST],The team Peru belongs to the federation Peruvian Football Association.,train
+<s>[INST] In which region is the team Peru located? [/INST],The team Peru is located in the region South America.,train
+<s>[INST] What is the confederation of the team Peru? [/INST],The confederation of the team Peru is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Peru qualified for a World Cup tournament? [/INST],"Yes, the men's team of Peru has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Peru qualified for a World Cup tournament? [/INST],"No, the women's team of Peru has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code POL? [/INST],The name of the team with the code POL is Poland.,train
+<s>[INST] Which federation does the team Poland belong to? [/INST],The team Poland belongs to the federation Polish Football Association.,train
+<s>[INST] In which region is the team Poland located? [/INST],The team Poland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Poland? [/INST],The confederation of the team Poland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Poland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Poland has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Poland qualified for a World Cup tournament? [/INST],"No, the women's team of Poland has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code PRT? [/INST],The name of the team with the code PRT is Portugal.,train
+<s>[INST] Which federation does the team Portugal belong to? [/INST],The team Portugal belongs to the federation Portuguese Football Federation.,train
+<s>[INST] In which region is the team Portugal located? [/INST],The team Portugal is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Portugal? [/INST],The confederation of the team Portugal is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Portugal qualified for a World Cup tournament? [/INST],"Yes, the men's team of Portugal has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Portugal qualified for a World Cup tournament? [/INST],"No, the women's team of Portugal has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code QAT? [/INST],The name of the team with the code QAT is Qatar.,train
+<s>[INST] Which federation does the team Qatar belong to? [/INST],The team Qatar belongs to the federation Qatar Football Association.,train
+<s>[INST] In which region is the team Qatar located? [/INST],The team Qatar is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team Qatar? [/INST],The confederation of the team Qatar is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Qatar qualified for a World Cup tournament? [/INST],"Yes, the men's team of Qatar has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Qatar qualified for a World Cup tournament? [/INST],"No, the women's team of Qatar has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code IRL? [/INST],The name of the team with the code IRL is Republic of Ireland.,train
+<s>[INST] Which federation does the team Republic of Ireland belong to? [/INST],The team Republic of Ireland belongs to the federation Football Association of Ireland.,train
+<s>[INST] In which region is the team Republic of Ireland located? [/INST],The team Republic of Ireland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Republic of Ireland? [/INST],The confederation of the team Republic of Ireland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Republic of Ireland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Republic of Ireland has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Republic of Ireland qualified for a World Cup tournament? [/INST],"No, the women's team of Republic of Ireland has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ROU? [/INST],The name of the team with the code ROU is Romania.,train
+<s>[INST] Which federation does the team Romania belong to? [/INST],The team Romania belongs to the federation Romanian Football Federation.,train
+<s>[INST] In which region is the team Romania located? [/INST],The team Romania is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Romania? [/INST],The confederation of the team Romania is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Romania qualified for a World Cup tournament? [/INST],"Yes, the men's team of Romania has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Romania qualified for a World Cup tournament? [/INST],"No, the women's team of Romania has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code RUS? [/INST],The name of the team with the code RUS is Russia.,train
+<s>[INST] Which federation does the team Russia belong to? [/INST],The team Russia belongs to the federation Russian Football Union.,train
+<s>[INST] In which region is the team Russia located? [/INST],"The team Russia is located in the region Europe, Asia.",evaluation
+<s>[INST] What is the confederation of the team Russia? [/INST],The confederation of the team Russia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Russia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Russia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Russia qualified for a World Cup tournament? [/INST],"Yes, the women's team of Russia has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SAU? [/INST],The name of the team with the code SAU is Saudi Arabia.,train
+<s>[INST] Which federation does the team Saudi Arabia belong to? [/INST],The team Saudi Arabia belongs to the federation Saudi Arabian Football Association.,train
+<s>[INST] In which region is the team Saudi Arabia located? [/INST],The team Saudi Arabia is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team Saudi Arabia? [/INST],The confederation of the team Saudi Arabia is Asian Football Confederation abbreviated in AFC.,evaluation
+<s>[INST] Has the men's team of Saudi Arabia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Saudi Arabia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Saudi Arabia qualified for a World Cup tournament? [/INST],"No, the women's team of Saudi Arabia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SCO? [/INST],The name of the team with the code SCO is Scotland.,train
+<s>[INST] Which federation does the team Scotland belong to? [/INST],The team Scotland belongs to the federation Scottish Football Association.,train
+<s>[INST] In which region is the team Scotland located? [/INST],The team Scotland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Scotland? [/INST],The confederation of the team Scotland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Scotland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Scotland has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Scotland qualified for a World Cup tournament? [/INST],"Yes, the women's team of Scotland has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SEN? [/INST],The name of the team with the code SEN is Senegal.,train
+<s>[INST] Which federation does the team Senegal belong to? [/INST],The team Senegal belongs to the federation Senegalese Football Federation.,train
+<s>[INST] In which region is the team Senegal located? [/INST],The team Senegal is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Senegal? [/INST],The confederation of the team Senegal is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Senegal qualified for a World Cup tournament? [/INST],"Yes, the men's team of Senegal has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Senegal qualified for a World Cup tournament? [/INST],"No, the women's team of Senegal has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SRB? [/INST],The name of the team with the code SRB is Serbia.,train
+<s>[INST] Which federation does the team Serbia belong to? [/INST],The team Serbia belongs to the federation Football Association of Serbia.,evaluation
+<s>[INST] In which region is the team Serbia located? [/INST],The team Serbia is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Serbia? [/INST],The confederation of the team Serbia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Serbia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Serbia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Serbia qualified for a World Cup tournament? [/INST],"No, the women's team of Serbia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SCG? [/INST],The name of the team with the code SCG is Serbia and Montenegro.,train
+<s>[INST] Which federation does the team Serbia and Montenegro belong to? [/INST],The team Serbia and Montenegro belongs to the federation Football Association of Serbia and Montenegro.,train
+<s>[INST] In which region is the team Serbia and Montenegro located? [/INST],The team Serbia and Montenegro is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Serbia and Montenegro? [/INST],The confederation of the team Serbia and Montenegro is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Serbia and Montenegro qualified for a World Cup tournament? [/INST],"Yes, the men's team of Serbia and Montenegro has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Serbia and Montenegro qualified for a World Cup tournament? [/INST],"No, the women's team of Serbia and Montenegro has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SVK? [/INST],The name of the team with the code SVK is Slovakia.,train
+<s>[INST] Which federation does the team Slovakia belong to? [/INST],The team Slovakia belongs to the federation Slovak Football Association.,train
+<s>[INST] In which region is the team Slovakia located? [/INST],The team Slovakia is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Slovakia? [/INST],The confederation of the team Slovakia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Slovakia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Slovakia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Slovakia qualified for a World Cup tournament? [/INST],"No, the women's team of Slovakia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SVN? [/INST],The name of the team with the code SVN is Slovenia.,train
+<s>[INST] Which federation does the team Slovenia belong to? [/INST],The team Slovenia belongs to the federation Football Association of Slovenia.,train
+<s>[INST] In which region is the team Slovenia located? [/INST],The team Slovenia is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Slovenia? [/INST],The confederation of the team Slovenia is Union of European Football Associations abbreviated in UEFA.,evaluation
+<s>[INST] Has the men's team of Slovenia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Slovenia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Slovenia qualified for a World Cup tournament? [/INST],"No, the women's team of Slovenia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ZAF? [/INST],The name of the team with the code ZAF is South Africa.,train
+<s>[INST] Which federation does the team South Africa belong to? [/INST],The team South Africa belongs to the federation South African Football Associaiton.,train
+<s>[INST] In which region is the team South Africa located? [/INST],The team South Africa is located in the region Africa.,train
+<s>[INST] What is the confederation of the team South Africa? [/INST],The confederation of the team South Africa is Confederation of African Football abbreviated in CAF.,evaluation
+<s>[INST] Has the men's team of South Africa qualified for a World Cup tournament? [/INST],"Yes, the men's team of South Africa has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of South Africa qualified for a World Cup tournament? [/INST],"Yes, the women's team of South Africa has qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code KOR? [/INST],The name of the team with the code KOR is South Korea.,train
+<s>[INST] Which federation does the team South Korea belong to? [/INST],The team South Korea belongs to the federation Korea Football Association.,evaluation
+<s>[INST] In which region is the team South Korea located? [/INST],The team South Korea is located in the region East Asia.,evaluation
+<s>[INST] What is the confederation of the team South Korea? [/INST],The confederation of the team South Korea is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of South Korea qualified for a World Cup tournament? [/INST],"Yes, the men's team of South Korea has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of South Korea qualified for a World Cup tournament? [/INST],"Yes, the women's team of South Korea has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SUN? [/INST],The name of the team with the code SUN is Soviet Union.,train
+<s>[INST] Which federation does the team Soviet Union belong to? [/INST],The team Soviet Union belongs to the federation Football Federation of the Soviet Union.,evaluation
+<s>[INST] In which region is the team Soviet Union located? [/INST],"The team Soviet Union is located in the region Europe, Asia.",evaluation
+<s>[INST] What is the confederation of the team Soviet Union? [/INST],The confederation of the team Soviet Union is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Soviet Union qualified for a World Cup tournament? [/INST],"Yes, the men's team of Soviet Union has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Soviet Union qualified for a World Cup tournament? [/INST],"No, the women's team of Soviet Union has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ESP? [/INST],The name of the team with the code ESP is Spain.,train
+<s>[INST] Which federation does the team Spain belong to? [/INST],The team Spain belongs to the federation Royal Spanish Football Federation.,train
+<s>[INST] In which region is the team Spain located? [/INST],The team Spain is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Spain? [/INST],The confederation of the team Spain is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Spain qualified for a World Cup tournament? [/INST],"Yes, the men's team of Spain has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Spain qualified for a World Cup tournament? [/INST],"Yes, the women's team of Spain has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code SWE? [/INST],The name of the team with the code SWE is Sweden.,train
+<s>[INST] Which federation does the team Sweden belong to? [/INST],The team Sweden belongs to the federation Swedish Football Association.,train
+<s>[INST] In which region is the team Sweden located? [/INST],The team Sweden is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Sweden? [/INST],The confederation of the team Sweden is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Sweden qualified for a World Cup tournament? [/INST],"Yes, the men's team of Sweden has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Sweden qualified for a World Cup tournament? [/INST],"Yes, the women's team of Sweden has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CHE? [/INST],The name of the team with the code CHE is Switzerland.,train
+<s>[INST] Which federation does the team Switzerland belong to? [/INST],The team Switzerland belongs to the federation Swiss Football Association.,evaluation
+<s>[INST] In which region is the team Switzerland located? [/INST],The team Switzerland is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Switzerland? [/INST],The confederation of the team Switzerland is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Switzerland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Switzerland has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Switzerland qualified for a World Cup tournament? [/INST],"Yes, the women's team of Switzerland has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code THA? [/INST],The name of the team with the code THA is Thailand.,train
+<s>[INST] Which federation does the team Thailand belong to? [/INST],The team Thailand belongs to the federation Football Association of Thailand.,evaluation
+<s>[INST] In which region is the team Thailand located? [/INST],The team Thailand is located in the region South East Asia.,train
+<s>[INST] What is the confederation of the team Thailand? [/INST],The confederation of the team Thailand is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of Thailand qualified for a World Cup tournament? [/INST],"No, the men's team of Thailand has not qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Thailand qualified for a World Cup tournament? [/INST],"Yes, the women's team of Thailand has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code TGO? [/INST],The name of the team with the code TGO is Togo.,evaluation
+<s>[INST] Which federation does the team Togo belong to? [/INST],The team Togo belongs to the federation Togolese Football Federation.,evaluation
+<s>[INST] In which region is the team Togo located? [/INST],The team Togo is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Togo? [/INST],The confederation of the team Togo is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Togo qualified for a World Cup tournament? [/INST],"Yes, the men's team of Togo has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Togo qualified for a World Cup tournament? [/INST],"No, the women's team of Togo has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code TTO? [/INST],The name of the team with the code TTO is Trinidad and Tobago.,train
+<s>[INST] Which federation does the team Trinidad and Tobago belong to? [/INST],The team Trinidad and Tobago belongs to the federation Trinidad and Tobago Football Assocaition.,train
+<s>[INST] In which region is the team Trinidad and Tobago located? [/INST],The team Trinidad and Tobago is located in the region Caribbean.,train
+<s>[INST] What is the confederation of the team Trinidad and Tobago? [/INST],"The confederation of the team Trinidad and Tobago is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Trinidad and Tobago qualified for a World Cup tournament? [/INST],"Yes, the men's team of Trinidad and Tobago has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Trinidad and Tobago qualified for a World Cup tournament? [/INST],"No, the women's team of Trinidad and Tobago has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code TUN? [/INST],The name of the team with the code TUN is Tunisia.,train
+<s>[INST] Which federation does the team Tunisia belong to? [/INST],The team Tunisia belongs to the federation Tunisian Football Federation.,train
+<s>[INST] In which region is the team Tunisia located? [/INST],The team Tunisia is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Tunisia? [/INST],The confederation of the team Tunisia is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the men's team of Tunisia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Tunisia has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Tunisia qualified for a World Cup tournament? [/INST],"No, the women's team of Tunisia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code TUR? [/INST],The name of the team with the code TUR is Turkey.,train
+<s>[INST] Which federation does the team Turkey belong to? [/INST],The team Turkey belongs to the federation Turkish Football Association.,train
+<s>[INST] In which region is the team Turkey located? [/INST],"The team Turkey is located in the region Europe, Asia.",train
+<s>[INST] What is the confederation of the team Turkey? [/INST],The confederation of the team Turkey is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Turkey qualified for a World Cup tournament? [/INST],"Yes, the men's team of Turkey has qualified for a World Cup tournament.",evaluation
+<s>[INST] Has the women's team of Turkey qualified for a World Cup tournament? [/INST],"No, the women's team of Turkey has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code UKR? [/INST],The name of the team with the code UKR is Ukraine.,train
+<s>[INST] Which federation does the team Ukraine belong to? [/INST],The team Ukraine belongs to the federation Ukrainian Association of Football.,train
+<s>[INST] In which region is the team Ukraine located? [/INST],The team Ukraine is located in the region Europe.,evaluation
+<s>[INST] What is the confederation of the team Ukraine? [/INST],The confederation of the team Ukraine is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Ukraine qualified for a World Cup tournament? [/INST],"Yes, the men's team of Ukraine has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Ukraine qualified for a World Cup tournament? [/INST],"No, the women's team of Ukraine has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ARE? [/INST],The name of the team with the code ARE is United Arab Emirates.,train
+<s>[INST] Which federation does the team United Arab Emirates belong to? [/INST],The team United Arab Emirates belongs to the federation United Arab Emirates Football Association.,train
+<s>[INST] In which region is the team United Arab Emirates located? [/INST],The team United Arab Emirates is located in the region Middle East.,train
+<s>[INST] What is the confederation of the team United Arab Emirates? [/INST],The confederation of the team United Arab Emirates is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Has the men's team of United Arab Emirates qualified for a World Cup tournament? [/INST],"Yes, the men's team of United Arab Emirates has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of United Arab Emirates qualified for a World Cup tournament? [/INST],"No, the women's team of United Arab Emirates has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code USA? [/INST],The name of the team with the code USA is United States.,train
+<s>[INST] Which federation does the team United States belong to? [/INST],The team United States belongs to the federation United States Soccer Federation.,train
+<s>[INST] In which region is the team United States located? [/INST],The team United States is located in the region North America.,train
+<s>[INST] What is the confederation of the team United States? [/INST],"The confederation of the team United States is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of United States qualified for a World Cup tournament? [/INST],"Yes, the men's team of United States has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of United States qualified for a World Cup tournament? [/INST],"Yes, the women's team of United States has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code URY? [/INST],The name of the team with the code URY is Uruguay.,train
+<s>[INST] Which federation does the team Uruguay belong to? [/INST],The team Uruguay belongs to the federation Uruguayan Football Association.,train
+<s>[INST] In which region is the team Uruguay located? [/INST],The team Uruguay is located in the region South America.,evaluation
+<s>[INST] What is the confederation of the team Uruguay? [/INST],The confederation of the team Uruguay is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Has the men's team of Uruguay qualified for a World Cup tournament? [/INST],"Yes, the men's team of Uruguay has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Uruguay qualified for a World Cup tournament? [/INST],"No, the women's team of Uruguay has not qualified for a World Cup tournament.",evaluation
+<s>[INST] What is the name of the team with the code WAL? [/INST],The name of the team with the code WAL is Wales.,train
+<s>[INST] Which federation does the team Wales belong to? [/INST],The team Wales belongs to the federation Football Association of Wales.,train
+<s>[INST] In which region is the team Wales located? [/INST],The team Wales is located in the region Europe.,evaluation
+<s>[INST] What is the confederation of the team Wales? [/INST],The confederation of the team Wales is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Wales qualified for a World Cup tournament? [/INST],"Yes, the men's team of Wales has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Wales qualified for a World Cup tournament? [/INST],"No, the women's team of Wales has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code DEU? [/INST],The name of the team with the code DEU is West Germany.,train
+<s>[INST] Which federation does the team West Germany belong to? [/INST],The team West Germany belongs to the federation Germany Football Association.,train
+<s>[INST] In which region is the team West Germany located? [/INST],The team West Germany is located in the region Europe.,train
+<s>[INST] What is the confederation of the team West Germany? [/INST],The confederation of the team West Germany is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of West Germany qualified for a World Cup tournament? [/INST],"Yes, the men's team of West Germany has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of West Germany qualified for a World Cup tournament? [/INST],"No, the women's team of West Germany has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code YUG? [/INST],The name of the team with the code YUG is Yugoslavia.,train
+<s>[INST] Which federation does the team Yugoslavia belong to? [/INST],The team Yugoslavia belongs to the federation Football Association of Yugoslavia.,evaluation
+<s>[INST] In which region is the team Yugoslavia located? [/INST],The team Yugoslavia is located in the region Europe.,train
+<s>[INST] What is the confederation of the team Yugoslavia? [/INST],The confederation of the team Yugoslavia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the men's team of Yugoslavia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Yugoslavia has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Yugoslavia qualified for a World Cup tournament? [/INST],"No, the women's team of Yugoslavia has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code COD? [/INST],The name of the team with the code COD is Zaire.,evaluation
+<s>[INST] Which federation does the team Zaire belong to? [/INST],The team Zaire belongs to the federation Congolese Association Football Federation.,train
+<s>[INST] In which region is the team Zaire located? [/INST],The team Zaire is located in the region Africa.,train
+<s>[INST] What is the confederation of the team Zaire? [/INST],The confederation of the team Zaire is Confederation of African Football abbreviated in CAF.,evaluation
+<s>[INST] Has the men's team of Zaire qualified for a World Cup tournament? [/INST],"Yes, the men's team of Zaire has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Zaire qualified for a World Cup tournament? [/INST],"No, the women's team of Zaire has not qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team Algeria? [/INST],The confederation of the team Algeria is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] What is the name of the team with the code ARG? [/INST],The name of the team with the code ARG is Argentina.,train
+<s>[INST] Which federation does the team Argentina belong to? [/INST],The team Argentina belongs to the federation Argentine Football Association.,train
+<s>[INST] What is the name of the team with the code AUS? [/INST],The name of the team with the code AUS is Australia.,train
+<s>[INST] Which federation does the team Austria belong to? [/INST],The team Austria belongs to the federation Austrian Football Association.,train
+<s>[INST] What is the confederation of the team Belgium? [/INST],The confederation of the team Belgium is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the women's team of Belgium qualified for a World Cup tournament? [/INST],"No, the women's team of Belgium has not qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team Bolivia? [/INST],The confederation of the team Bolivia is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] Which federation does the team Brazil belong to? [/INST],The team Brazil belongs to the federation Brazilian Football Confederation.,train
+<s>[INST] Which federation does the team Bulgaria belong to? [/INST],The team Bulgaria belongs to the federation Bulgarian Football Union.,train
+<s>[INST] Has the men's team of Canada qualified for a World Cup tournament? [/INST],"Yes, the men's team of Canada has qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team China? [/INST],The confederation of the team China is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] In which region is the team Costa Rica located? [/INST],The team Costa Rica is located in the region Central America.,train
+<s>[INST] Has the men's team of Costa Rica qualified for a World Cup tournament? [/INST],"Yes, the men's team of Costa Rica has qualified for a World Cup tournament.",train
+<s>[INST] Which federation does the team Croatia belong to? [/INST],The team Croatia belongs to the federation Croatian Football Federation.,train
+<s>[INST] In which region is the team Croatia located? [/INST],The team Croatia is located in the region Europe.,train
+<s>[INST] Has the men's team of Cuba qualified for a World Cup tournament? [/INST],"Yes, the men's team of Cuba has qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team Czech Republic? [/INST],The confederation of the team Czech Republic is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] What is the name of the team with the code CSK? [/INST],The name of the team with the code CSK is Czechoslovakia.,train
+<s>[INST] In which region is the team Czechoslovakia located? [/INST],The team Czechoslovakia is located in the region Europe.,train
+<s>[INST] What is the confederation of the team East Germany? [/INST],The confederation of the team East Germany is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Which federation does the team Egypt belong to? [/INST],The team Egypt belongs to the federation Egyptian Football Association.,train
+<s>[INST] In which region is the team Egypt located? [/INST],The team Egypt is located in the region Africa.,train
+<s>[INST] What is the confederation of the team France? [/INST],The confederation of the team France is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the women's team of France qualified for a World Cup tournament? [/INST],"Yes, the women's team of France has qualified for a World Cup tournament.",train
+<s>[INST] Which federation does the team Germany belong to? [/INST],The team Germany belongs to the federation Germany Football Association.,train
+<s>[INST] In which region is the team Germany located? [/INST],The team Germany is located in the region Europe.,train
+<s>[INST] Has the women's team of Germany qualified for a World Cup tournament? [/INST],"Yes, the women's team of Germany has qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team Ghana? [/INST],The confederation of the team Ghana is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] What is the confederation of the team Haiti? [/INST],"The confederation of the team Haiti is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Has the men's team of Honduras qualified for a World Cup tournament? [/INST],"Yes, the men's team of Honduras has qualified for a World Cup tournament.",train
+<s>[INST] Has the men's team of Hungary qualified for a World Cup tournament? [/INST],"Yes, the men's team of Hungary has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Hungary qualified for a World Cup tournament? [/INST],"No, the women's team of Hungary has not qualified for a World Cup tournament.",train
+<s>[INST] In which region is the team Iran located? [/INST],The team Iran is located in the region Middle East.,train
+<s>[INST] Has the women's team of Iraq qualified for a World Cup tournament? [/INST],"No, the women's team of Iraq has not qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code ISR? [/INST],The name of the team with the code ISR is Israel.,train
+<s>[INST] Which federation does the team Israel belong to? [/INST],The team Israel belongs to the federation Israel Football Association.,train
+<s>[INST] What is the confederation of the team Israel? [/INST],The confederation of the team Israel is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] Has the women's team of Italy qualified for a World Cup tournament? [/INST],"Yes, the women's team of Italy has qualified for a World Cup tournament.",train
+<s>[INST] What is the name of the team with the code CIV? [/INST],The name of the team with the code CIV is Ivory Coast.,train
+<s>[INST] Has the women's team of Jamaica qualified for a World Cup tournament? [/INST],"Yes, the women's team of Jamaica has qualified for a World Cup tournament.",train
+<s>[INST] In which region is the team Japan located? [/INST],The team Japan is located in the region East Asia.,train
+<s>[INST] What is the confederation of the team Mexico? [/INST],"The confederation of the team Mexico is Confederation of North, Central American and Caribbean Association Football abbreviated in CONCACAF.",train
+<s>[INST] Which federation does the team Morocco belong to? [/INST],The team Morocco belongs to the federation Royal Moroccan Football Federation.,train
+<s>[INST] In which region is the team Nigeria located? [/INST],The team Nigeria is located in the region Africa.,train
+<s>[INST] Has the men's team of North Korea qualified for a World Cup tournament? [/INST],"Yes, the men's team of North Korea has qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Northern Ireland qualified for a World Cup tournament? [/INST],"No, the women's team of Northern Ireland has not qualified for a World Cup tournament.",train
+<s>[INST] Has the women's team of Panama qualified for a World Cup tournament? [/INST],"No, the women's team of Panama has not qualified for a World Cup tournament.",train
+<s>[INST] What is the confederation of the team Paraguay? [/INST],The confederation of the team Paraguay is South American Football Confederation abbreviated in CONMEBOL.,train
+<s>[INST] In which region is the team Russia located? [/INST],"The team Russia is located in the region Europe, Asia.",train
+<s>[INST] What is the confederation of the team Saudi Arabia? [/INST],The confederation of the team Saudi Arabia is Asian Football Confederation abbreviated in AFC.,train
+<s>[INST] Which federation does the team Serbia belong to? [/INST],The team Serbia belongs to the federation Football Association of Serbia.,train
+<s>[INST] What is the confederation of the team Slovenia? [/INST],The confederation of the team Slovenia is Union of European Football Associations abbreviated in UEFA.,train
+<s>[INST] What is the confederation of the team South Africa? [/INST],The confederation of the team South Africa is Confederation of African Football abbreviated in CAF.,train
+<s>[INST] Has the women's team of South Africa qualified for a World Cup tournament? [/INST],"Yes, the women's team of South Africa has qualified for a World Cup tournament.",train
+<s>[INST] Which federation does the team South Korea belong to? [/INST],The team South Korea belongs to the federation Korea Football Association.,train
+<s>[INST] In which region is the team South Korea located? [/INST],The team South Korea is located in the region East Asia.,train
+<s>[INST] Which federation does the team Soviet Union belong to? [/INST],The team Soviet Union belongs to the federation Football Federation of the Soviet Union.,train
+<s>[INST] In which region is the team Soviet Union located? [/INST],"The team Soviet Union is located in the region Europe, Asia.",train
+<s>[INST] Which federation does the team Switzerland belong to? [/INST],The team Switzerland belongs to the federation Swiss Football Association.,train
+<s>[INST] Has the men's team of Switzerland qualified for a World Cup tournament? [/INST],"Yes, the men's team of Switzerland has qualified for a World Cup tournament.",train
+<s>[INST] Which federation does the team Thailand belong to? [/INST],The team Thailand belongs to the federation Football Association of Thailand.,train
+<s>[INST] What is the name of the team with the code TGO? [/INST],The name of the team with the code TGO is Togo.,train
+<s>[INST] Which federation does the team Togo belong to? [/INST],The team Togo belongs to the federation Togolese Football Federation.,train
+<s>[INST] Has the men's team of Tunisia qualified for a World Cup tournament? [/INST],"Yes, the men's team of Tunisia has qualified for a World Cup tournament.",train
+<s>[INST] Has the men's team of Turkey qualified for a World Cup tournament? [/INST],"Yes, the men's team of Turkey has qualified for a World Cup tournament.",train
+<s>[INST] In which region is the team Ukraine located? [/INST],The team Ukraine is located in the region Europe.,train
+<s>[INST] In which region is the team Uruguay located? [/INST],The team Uruguay is located in the region South America.,train
+<s>[INST] Has the women's team of Uruguay qualified for a World Cup tournament? [/INST],"No, the women's team of Uruguay has not qualified for a World Cup tournament.",train
+<s>[INST] In which region is the team Wales located? [/INST],The team Wales is located in the region Europe.,train
+<s>[INST] Which federation does the team Yugoslavia belong to? [/INST],The team Yugoslavia belongs to the federation Football Association of Yugoslavia.,train
+<s>[INST] What is the name of the team with the code COD? [/INST],The name of the team with the code COD is Zaire.,train
+<s>[INST] What is the confederation of the team Zaire? [/INST],The confederation of the team Zaire is Confederation of African Football abbreviated in CAF.,train
