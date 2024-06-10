@@ -31,6 +31,7 @@ pairs = df.apply(generate_instruction_response, axis=1)
 # Create a DataFrame for the pairs
 pairs_df = pd.DataFrame(pairs.tolist(), columns=['prompt', 'completion'])
 
+"""
 # Add the 'train' column with 80% entries as 'train' and 20% as 'evaluation'
 pairs_df['train'] = np.where(np.random.rand(len(pairs_df)) < 0.8, 'train', 'evaluation')
 
@@ -43,5 +44,9 @@ final_df = pd.concat([pairs_df, eval_df])
 
 # Save to CSV
 final_df.to_csv('penalties_pairs.csv', index=False)
+"""
+
+# Save to CSV
+pairs_df.to_csv('penalties_pairs.csv', index=False)
 
 print("Instruction-response pairs have been generated and saved to 'penalties_pairs.csv'.")

@@ -12,6 +12,12 @@ def generate_instruction_response(row):
     elif row['penalty'] == 1:
         goal_type = "a penalty"
 
+   # Determine the appropriate minute detail
+    if row['minute_stoppage'] == 0:
+        minute_detail = f"Minute of regulation: {row['minute_regulation']}"
+    else:
+        minute_detail = f"Minute of stoppage: {row['minute_stoppage']}"
+
     prompt = (
         f"Provide details for the goal scored by {row['given_name']} {row['family_name']} of {row['team_name']} in the {row['tournament_name']} match {row['match_name']} "
         #f"{'home team' if row['home_team'] == 1 else 'away team'} {row['team_name']} and their opponent "
@@ -28,8 +34,8 @@ def generate_instruction_response(row):
     response = (
         f"The goal was scored by {row['given_name']} {row['family_name']} of {row['team_name']} in the {row['minute_label']} minute ({row['match_period']}) {shirt}"
         f"during the {row['tournament_name']} match {row['match_name']} on {row['match_date']} at the {row['stage_name']} stage. "
-        f"It was {goal_type}. "
-        f"Minute of regulation: {row['minute_regulation']}, minute of stoppage: {row['minute_stoppage']}."
+        f"It was {goal_type}. {minute_detail}"
+        #f"Minute of regulation: {row['minute_regulation']}, minute of stoppage: {row['minute_stoppage']}."
     )
     
     return f"<s>[INST] {prompt} [/INST]", response
@@ -40,6 +46,7 @@ pairs = df.apply(generate_instruction_response, axis=1)
 # Create a DataFrame for the pairs
 pairs_df = pd.DataFrame(pairs.tolist(), columns=['prompt', 'completion'])
 
+"""
 # Add the 'train' column with 80% entries as 'train' and 20% as 'evaluation'
 pairs_df['train'] = np.where(np.random.rand(len(pairs_df)) < 0.8, 'train', 'evaluation')
 
@@ -50,7 +57,9 @@ eval_df['train'] = 'train'
 # Combine the original pairs_df with the replicated evaluation entries
 final_df = pd.concat([pairs_df, eval_df])
 
-# Save to CSV
-final_df.to_csv('goals_pairs.csv', index=False)
 
+"""
+
+# Save to CSV
+pairs_df.to_csv('goals_pairs.csv', index=False)
 print("Instruction-response pairs have been generated and saved to 'goals_pairs.csv'.")

@@ -27,17 +27,17 @@ def generate_instruction_response(row):
         winning_team = f"Winning team was {row['away_team_name']}."
     
     # Extra time and penalty shootout details
-    extra_time_details = f"Extra time: {'Yes' if row['extra_time'] == 1 else 'No'}. "
+    extra_time_details = f" {'Extra time: Yes.' if row['extra_time'] == 1 else ''}"
     penalty_shootout_details = ""
     if row['penalty_shootout'] == 1:
         penalty_shootout_details = (
             f"The match ended in a penalty shootout with a score of {row['score_penalties']}. "
             f"Penalties scored: {row['home_team_name']} {row['home_team_score_penalties']}, "
-            f"{row['away_team_name']} {row['away_team_score_penalties']}. "
+            f"{row['away_team_name']} {row['away_team_score_penalties']}."
         )
     
     # Complete prompt
-    prompt += match_stage + extra_time_details + penalty_shootout_details
+    prompt += match_stage # + extra_time_details + penalty_shootout_details
 
     # Response
     response = (
@@ -56,6 +56,7 @@ pairs = df.apply(generate_instruction_response, axis=1)
 # Create a DataFrame for the pairs
 pairs_df = pd.DataFrame(pairs.tolist(), columns=['prompt', 'completion'])
 
+"""
 # Add the 'train' column with 80% entries as 'train' and 20% as 'evaluation'
 pairs_df['train'] = np.where(np.random.rand(len(pairs_df)) < 0.80, 'train', 'evaluation')
 
@@ -68,5 +69,9 @@ final_df = pd.concat([pairs_df, eval_df])
 
 # Save to CSV
 final_df.to_csv('matches_pairs.csv', index=False)
+"""
+
+# Save to CSV
+pairs_df.to_csv('matches_pairs.csv', index=False)
 
 print("Instruction-response pairs have been generated and saved to 'matches_pairs.csv'.")
